@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+media/
+staticfiles/
+
+# Node
+node_modules/
+build/
+
+# React
+.env
+
+# VS Code
+.vscode/
+
+# Arduino
+*.ino.eep
+*.ino.bin
+
+# OS
+Thumbs.db
+.DS_Store*
